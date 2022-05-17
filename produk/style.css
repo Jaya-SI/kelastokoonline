@@ -1,0 +1,7 @@
+body{
+    height: 2000px;
+}
+.kotak{
+    width: 50px;
+    background-color: rgb(118, 241, 16);
+}
